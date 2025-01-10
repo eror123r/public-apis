@@ -1,0 +1,8 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  }
+} 
+ https://github.com/public-apis/public-apis/pull/4106 
+ "ghcr.io/nikiforovall/devcontainer-features/dotnet-csharpier:1": {} 
+ ": {
